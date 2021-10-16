@@ -33,5 +33,5 @@ Python function allowing to copy a text in another one in a mutable way. That is
 ## Installation
 Install this through pip:
 ```shell
-pip install arc_lib
+pip install arc-lib-arodroz
 ```
